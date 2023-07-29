@@ -1,4 +1,4 @@
-package firstGameTry;
+import firstGameTry.Game;
 
 public class Main {
 	
